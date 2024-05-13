@@ -4,7 +4,7 @@ const cors = require("cors")
 const {google} = require("googleapis")
 
 // Middleware to parse JSON request body
-const allowedOrigins = ['http://localhost:3000', "https://noovosoft-test-push-notification.vercel.app/"];
+const allowedOrigins = ['http://localhost:3000/', "https://noovosoft-test-push-notification.vercel.app/"];
 
 const corsOptions = {
     origin: allowedOrigins,
