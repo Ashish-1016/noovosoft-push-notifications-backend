@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "noovosoft-push-messages",
+  "private_key_id": "a92e6c315a4f23a5fc6b02bf2606ca83fe3ac6fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCasOwusKJ1tfUf\n8ZcBp4yj7tYO/fnHB2V1fH74FVulTwQFcbH//gBcb5koOyIdIrJ0frbsFbwJlxvu\nNYlMBZB3bTJNwAU9kMWP7jkPtlx5l5S406a3R9JuRPshX2YsT9nm6KWAF6Dw+i78\nbjYYdgRHHNo4vMswjKs/xD3aEXddkGgfeaDdP/PEqF5LHiClm4aNxZdLeZhK10er\nHICRVMhkjLuE66U/b0iQXQnG3EtcK5ZYAmQXqV4HIiivBGjKJbNxHBNEEDrKdosQ\ncLJ21cI4Yb91Wt8aWcQIZhzKmV7B+RNgVxCjGselkR0ALTLCe7h/uAZ1EZL+sNXP\nsRZ7yrfDAgMBAAECggEABhxpKCsIL/hBN8LWgVU6JBvCTxNPc8JiCrMhXPGTDkPB\n1+k26/L/1qb9+O3lGhuNyzZaSZdON17F1rI8u0kY/O7OZu3oBxeaBmaV0H4WxyLq\n2CZcVq86q+qDtTzMj4GUDSAxsY69Z+eqRYShFHRNFPYZ1NX4fPGBrmI1Q1EfUw3a\nn3R37Sd8ALZKJcDHduNeIKUsBQAZNI0KGxLDAy0tnVYF9rvp32Ylp4uXtKs4LSsb\nR8BHZOHR2NCulAG5ENtb22h0/s6EZzJ2if58uazQQJtqH+RE9VWlJOJ/fnWmdwO9\nr5EBGJ4yNW9r7KLFlF3NNcUArUNnlLbQ4NJEGbA3GQKBgQDSwe74dpquPFJN8X0y\npH4ba8W1U8uXO2SGnAA9vt1beklloppcz7nPVh+hyOIuq4vcO9I/fmrg6cVdiCcF\nQylkqCZjF8Gr2Uv5ywQtggTmcJJ4cxCkA1LxPlyv5xJoiquP0WTODBsQmYuzzeUW\n51BO8zRRdx/DJfTsesW9H5Ts1wKBgQC75eNQu1hT2cjHRg7DhNbqY9Ls7RZ/9TiM\nPvs6ByaP93Mp6BCONvMrVy/vCUG3Zgpfv3t5no/+FxSr1nIY0M6N/gbzx+SjJEzn\npaGlRiQGDzvfv4HQ7p++RMg53vbmuZsqCqz6izQKJHskLC5g9aG26lSYlk93b68y\nPfcGTjyi9QKBgQCWdqXo9KPRqHcJ9lHvicgOQ47OuZgry9ck0tLJQi4+VLt5t/CE\nOjjpcQ78LbJsp0QeYwbjFZmwILUq5T0WYLB4kCN3s0otKeE34FyHML/W1J99JojG\nzyiz2lXJrypRQE7jShaxk6ru2vAF2gSnqVSISNEdJ/KhG8QT4EKzlox32QKBgQCi\noi9n0FB6e1Wajdv3hYJT7EVEB05jQMhKM7VVm5zYHZFTo2a5AXzmdZeqqXN1H2A5\nUc65DPKLNkURGxM0wX8XTdmMpecTAjeChU1tdVF24TasyuC9C92+XWCFHqTMPbi8\n4fKpBVXstXjUbV1TVSg834SLcgakVUnqDdJDZfJ8BQKBgBhJYLSDW5GcAHN4UMpf\n06LZy5MBa5F+CfUxr5Y7wdAk18ayHrzmOm6o9H9zp1RJSeNuN7lMhRzDET2bf+05\nmAZKJHNtncgOIbv9XIOkyTONqN7S1y1Zz2v+cXbxW8e2Gzg+GNOVv87pY6PK4D7a\nrapTFBliR5m5Vx8BUEAqOmCf\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l4qz1@noovosoft-push-messages.iam.gserviceaccount.com",
+  "client_id": "100489847308542604632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l4qz1%40noovosoft-push-messages.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
