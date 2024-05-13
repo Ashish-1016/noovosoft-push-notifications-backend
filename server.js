@@ -4,8 +4,15 @@ const cors = require("cors")
 const {google} = require("googleapis")
 
 // Middleware to parse JSON request body
+const allowedOrigins = ['http://localhost:3000', "https://noovosoft-test-push-notification.vercel.app/"];
+
+const corsOptions = {
+    origin: allowedOrigins,
+    optionsSuccessStatus: 200,
+};
+
 app.use(express.json());
-app.use(cors())
+app.use(cors(corsOptions))
 
 function getServerToken() {
     const key = require("./private.json")
