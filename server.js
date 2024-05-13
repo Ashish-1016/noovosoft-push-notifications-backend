@@ -36,6 +36,10 @@ const checkRegistrationToken = (req, res, next) => {
     next();
 };
 
+app.get("/", async (req, res) => {
+    res.send("Hello from vercel")
+})
+
 app.post('/send-notification', checkRegistrationToken, async (req, res) => {
     const {title, body, delay = 0} = req.body;
     const registrationToken = req.headers.registrationtoken;
