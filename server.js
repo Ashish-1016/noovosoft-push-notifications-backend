@@ -85,7 +85,7 @@ app.post('/send-notification', checkRegistrationToken, async (req, res) => {
     }
 });
 
-app.listen(8443, () => {
+app.listen(() => {
     console.log('Vercel server is running');
 });
 
